@@ -4,6 +4,9 @@ Welcome to Day 9!
 
 Today, we delve deeper into data cleaning.
 
+![image](https://github.com/DSN-UNIBEN/30-Days-Challenge/assets/159697375/de3fd4f6-fccf-4834-bda2-ae72551a7fc2)
+
+
 # *Explore this playlist* 
 
 https://www.youtube.com/playlist?list=PLJ39kWiJXSiwksZX7M3f4uHM9_vQAzhL0 
