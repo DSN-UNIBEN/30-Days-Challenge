@@ -2,6 +2,9 @@
 
 Welcome back!
 
+![WhatsApp Image 2024-02-27 at 8 06 25 AM](https://github.com/DSN-UNIBEN/30-Days-Challenge/assets/159697375/25fe0012-c3ef-4add-be31-f84461c347de)
+
+
 Day 13 takes us further into data preprocessing with videos 10-18.
 
 # *Playlist*
